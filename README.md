@@ -1,17 +1,17 @@
-## Hi there, I'm LuSkywaker. 👋
+## Hi there, I'm LuSkywaker. :wave:
 
 ### I'm a Computer Science Master Student
-- 🔭 I’m currently working on firmware develope
-- 🌱 I’m currently learning OOP
-- 💬 Ask me about C/Javascript/PHP
+- :satellite: I’m currently working on firmware develope
+- :flashlight: I’m currently learning OOP
+- :speech_balloon: Ask me about C/Javascript/PHP
 
-### Contact Me
+### :mailbox: Contact Me
 [<img align="left" alt="LuSkywalker" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LuSkywalker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LuSkywalker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
-### Languages and Tools
+### :hammer: Languages and Tools
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/c.png" />
 <img align="left" alt="arm" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/arm.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/linux.jpg" />
@@ -27,7 +27,7 @@
 
 ---
 
-### Lastest Blog Posts
+### :notebook: Lastest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Change Time Zone in Linux](https://blog.lusw.dev/posts/linux/change-timezone.html)
 - [Building STM32 in Makefile](https://blog.lusw.dev/posts/linux/building-stm32-in-makefile.html)
