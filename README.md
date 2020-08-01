@@ -9,7 +9,17 @@
 ---
 
 ### Languages and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/c.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/c.png" />
+<img align="left" alt="arm" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/arm.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/linux.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/mysql.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/vscode.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/css.png" />
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/js.png" />
+<img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/vue.png" />
 <br>
 
 ---
