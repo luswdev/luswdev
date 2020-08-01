@@ -1,23 +1,18 @@
 ### Hi there, I'm LuSkywaker. 👋
 
-# Blog posts
+- 🔭 I’m currently working on firmware develope
+- 🌱 I’m currently learning OOP
+- 💬 Ask me about C/Javascript/PHP
+- 📫 How to reach me: [info@lusw.dev](mailto:info@lusw.dev)
+
+---
+
+### Lastest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 [![LuSkywalker's github stats](https://github-readme-stats.vercel.app/api?username=luswdev&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luswdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**luswdev/luswdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
