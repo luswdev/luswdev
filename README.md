@@ -4,9 +4,11 @@
 - 🔭 I’m currently working on firmware develope
 - 🌱 I’m currently learning OOP
 - 💬 Ask me about C/Javascript/PHP
-- 📫 How to reach me: [info@lusw.dev](mailto:info@lusw.dev)
 
----
+### Contact Me
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/c.png" />
@@ -33,3 +35,7 @@
 [![LuSkywalker's github stats](https://github-readme-stats.vercel.app/api?username=luswdev&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luswdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://blog.lusw.dev
+[twitter]: https://twitter.com/luswdev
+[linkedin]: https://www.linkedin.com/in/callum-lu
