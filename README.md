@@ -29,6 +29,11 @@
 
 ### Lastest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Change Time Zone in Linux](https://blog.lusw.dev/posts/linux/change-timezone.html)
+- [Building STM32 in Makefile](https://blog.lusw.dev/posts/linux/building-stm32-in-makefile.html)
+- [Hexo Theme Clean Document](https://blog.lusw.dev/posts/hexo/theme-clean-doc.html)
+- [Add Bootstrap badge Tags into Hexo](https://blog.lusw.dev/posts/hexo/add-bs-label.html)
+- [Add Bootstrap Card Tags into Hexo](https://blog.lusw.dev/posts/hexo/add-bs-card.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
