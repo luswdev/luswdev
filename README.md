@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm LuSkywaker. 👋
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[![LuSkywalker's github stats](https://github-readme-stats.vercel.app/api?username=luswdev&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luswdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **luswdev/luswdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
