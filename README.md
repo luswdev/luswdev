@@ -29,11 +29,11 @@
 
 ### :notebook: Lastest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apache 將網站架設於子目錄](https://blog.lusw.dev/posts/linux/apache-upload-in-subdir.html)
 - [BMP (Bitmap) 檔案格式](https://blog.lusw.dev/posts/bitmap-file-structure.html)
 - [Ubuntu 更換時區指令](https://blog.lusw.dev/posts/linux/change-timezone.html)
 - [STM32 Makefile 專案建置](https://blog.lusw.dev/posts/linux/building-stm32-in-makefile.html)
 - [Hexo Theme Clean Document](https://blog.lusw.dev/posts/hexo/theme-clean-doc.html)
-- [Add Bootstrap badge Tags into Hexo](https://blog.lusw.dev/posts/hexo/add-bs-label.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
