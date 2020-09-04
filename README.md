@@ -30,8 +30,8 @@
 ### :notebook: Lastest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [BMP (Bitmap) 檔案格式](https://blog.lusw.dev/posts/bitmap-file-structure.html)
-- [How to Change Time Zone in Linux](https://blog.lusw.dev/posts/linux/change-timezone.html)
-- [Building STM32 in Makefile](https://blog.lusw.dev/posts/linux/building-stm32-in-makefile.html)
+- [Ubuntu 更換時區指令](https://blog.lusw.dev/posts/linux/change-timezone.html)
+- [STM32 Makefile 專案建置](https://blog.lusw.dev/posts/linux/building-stm32-in-makefile.html)
 - [Hexo Theme Clean Document](https://blog.lusw.dev/posts/hexo/theme-clean-doc.html)
 - [Add Bootstrap badge Tags into Hexo](https://blog.lusw.dev/posts/hexo/add-bs-label.html)
 <!-- BLOG-POST-LIST:END -->
