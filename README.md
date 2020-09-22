@@ -1,6 +1,6 @@
 ## Hi there, I'm LuSkywaker. :wave:
 
-### I'm a Computer Science Master Student
+### I'm a Firmware Engineer
 - :satellite: I’m currently working on firmware develope
 - :flashlight: I’m currently learning OOP
 - :speech_balloon: Ask me about C/Javascript/PHP
