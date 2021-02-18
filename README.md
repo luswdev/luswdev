@@ -38,8 +38,8 @@
 
 ---
 
-[![LuSkywalker's github stats](https://github-readme-stats.vercel.app/api?username=luswdev&theme=tokyonight&show_icons=true&hide=issues)](https://github.com/luswdev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luswdev&theme=tokyonight&layout=compact)](https://github.com/luswdev)
+[![LuSkywalker's github stats](https://github-readme-stats.vercel.app/api?username=luswdev&theme=react&show_icons=true&hide=issues)](https://github.com/luswdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luswdev&theme=react&layout=compact)](https://github.com/luswdev)
 
 [website]: https://blog.lusw.dev
 [twitter]: https://twitter.com/luswdev
