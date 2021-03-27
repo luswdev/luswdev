@@ -1,6 +1,7 @@
-<h2 style="text-align: center;">Hi there, I'm LuSkywaker. :wave:</h2>
+<h1 align="center">Hi there, I'm LuSkywaker. :wave:</h1>
 
-### I'm a Firmware Engineer
+<h3 align="center">I'm a Firmware Engineer.</h3>
+
 - :satellite: I’m currently working on firmware develope
 - :flashlight: I’m currently learning OOP
 - :speech_balloon: Ask me about C/Javascript/PHP
