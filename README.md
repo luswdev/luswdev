@@ -14,6 +14,7 @@
 
 ### :hammer: Languages and Tools
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/c.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/cpp.svg" />
 <img align="left" alt="arm" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/arm.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/linux.jpg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/mysql.png" />
