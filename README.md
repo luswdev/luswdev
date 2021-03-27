@@ -1,4 +1,4 @@
-## Hi there, I'm LuSkywaker. :wave:
+<h2 style="text-align: center;">Hi there, I'm LuSkywaker. :wave:</h2>
 
 ### I'm a Firmware Engineer
 - :satellite: I’m currently working on firmware develope
