@@ -4,7 +4,7 @@
 
 - :satellite: I’m currently working on firmware develope
 - :flashlight: I’m currently learning OOP
-- :speech_balloon: Ask me about C/Javascript/PHP
+- :speech_balloon: Ask me about C/C++/Javascript/PHP
 
 ### :mailbox: Contact Me
 [<img align="left" alt="LuSkywalker" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
