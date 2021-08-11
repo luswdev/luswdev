@@ -1,48 +1,39 @@
-<h1 align="center">Hi there, I'm LuSkywaker. :wave:</h1>
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luswdev&show_icons=true&bg_color=30,136a8a,267871&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/luswdev)
+  
+</div>
 
-<h3 align="center">I'm a Firmware Engineer.</h3>
+<p align="center">
+  <a style="text-decoration:none" href="mailto:info@lusw.dev">
+    <img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a style="text-decoration:none" href="https://github.com/luswdev">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a style="text-decoration:none" href="https://twitter.com/luswdev">
+    <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-- :satellite: I’m currently working on firmware develope
-- :flashlight: I’m currently learning OOP
-- :speech_balloon: Ask me about C/C++/Javascript/PHP
-
-### :mailbox: Contact Me
-[<img align="left" alt="LuSkywalker" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LuSkywalker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LuSkywalker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br>
-
-### :hammer: Languages and Tools
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/c.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/cpp.svg" />
-<img align="left" alt="arm" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/arm.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/linux.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/mysql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/vscode.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/css.png" />
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/js.png" />
-<img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/luswdev/luswdev/master/tool-images/vue.png" />
-<br>
-
----
-
-### :notebook: Lastest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Apache 將網站架設於子目錄](https://blog.lusw.dev/posts/linux/apache-upload-in-subdir.html)
-- [BMP (Bitmap) 檔案格式](https://blog.lusw.dev/posts/bitmap-file-structure.html)
-- [Ubuntu 更換時區指令](https://blog.lusw.dev/posts/linux/change-timezone.html)
-- [STM32 Makefile 專案建置](https://blog.lusw.dev/posts/linux/building-stm32-in-makefile.html)
-- [Hexo Theme Clean Document](https://blog.lusw.dev/posts/hexo/theme-clean-doc.html)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-[![LuSkywalker's github stats](https://github-readme-stats.vercel.app/api?username=luswdev&theme=react&show_icons=true&hide=issues)](https://github.com/luswdev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luswdev&theme=react&layout=compact)](https://github.com/luswdev)
-
-[website]: https://blog.lusw.dev
-[twitter]: https://twitter.com/luswdev
-[linkedin]: https://www.linkedin.com/in/callum-lu
+<p align="center">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/c/c-plain.svg" title="clang" alt="clang">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" title="embedded-c" alt="embedded-c">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/linux/linux-plain.svg" title="linux" alt="linux">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/bash/bash-original.svg" title="bash" alt="bash">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/php/php-plain.svg" title="php" alt="php">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/mysql/mysql-plain.svg" title="mysql" alt="mysql">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/jquery/jquery-original.svg" title="jquery" alt="jquery">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/html5/html5-plain.svg" title="html" alt="html">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/css3/css3-plain.svg" title="css" alt="css">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/git/git-original.svg" title="git" alt="git">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/github/github-original.svg" title="github" alt="github">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode">  
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="visual-studio" alt="visual-studio">
+</p>
