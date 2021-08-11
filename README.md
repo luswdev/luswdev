@@ -26,7 +26,7 @@
   <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/linux/linux-plain.svg" title="linux" alt="linux">
   <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/bash/bash-original.svg" title="bash" alt="bash">
   <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
-  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino">
+  <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino"><br>
   <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/php/php-plain.svg" title="php" alt="php">
   <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/mysql/mysql-plain.svg" title="mysql" alt="mysql">
   <img height="30" src="https://raw.fastgit.org/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript">
