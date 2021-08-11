@@ -13,6 +13,9 @@
   </a>
   <a style="text-decoration:none" href="https://twitter.com/luswdev">
     <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>  
+  <a style="text-decoration:none" href="https://blog.lusw.dev">
+    <img src="https://img.shields.io/badge/-Blog-0085A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" />
   </a>
 </p>
 
