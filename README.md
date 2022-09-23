@@ -1,8 +1,10 @@
+<!--
 <div align="center">
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luswdev&show_icons=true&bg_color=30,606c88,3f4c6b&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/luswdev)
   
 </div>
+-->
 
 <p align="center">
   <a style="text-decoration:none" href="mailto:info@lusw.dev">
