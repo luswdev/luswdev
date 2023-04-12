@@ -25,5 +25,6 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-plain.svg" title="clang" alt="clang">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/embeddedc/embeddedc-original.svg" title="embedded-c" alt="embedded-c">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="cmake" alt="cmake">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
 </p>
