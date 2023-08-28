@@ -28,3 +28,8 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="cmake" alt="cmake">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
 </p>
+
+</p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/{luswdev}/count.svg" />
+</p>
