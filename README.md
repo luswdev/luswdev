@@ -20,6 +20,7 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/electron/electron-original.svg" title="electron" alt="electron">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/php/php-plain.svg" title="php" alt="php">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql">
