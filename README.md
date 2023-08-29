@@ -7,26 +7,31 @@
 </div>
 
 <p align="center">
-  <img height="50" src="https://cdn.simpleicons.org/c/283044" title="clang" alt="clang">
-  <img height="50" src="https://cdn.simpleicons.org/c++/283044" title="cpp" alt="cpp">
-  <img height="50" src="https://cdn.simpleicons.org/raspberrypi/283044" title="raspberrypi" alt="raspberrypi">
-  <img height="50" src="https://cdn.simpleicons.org/cmake/283044" title="cmake" alt="cmake">
-  <img height="50" src="https://cdn.simpleicons.org/gnubash/283044" title="gnubash" alt="gnubash">
+  <img height="50" src="https://cdn.simpleicons.org/c/81c8be" title="clang" alt="clang">
+  <img height="50" src="https://cdn.simpleicons.org/c++/81c8be" title="cpp" alt="cpp">
+  <img height="50" src="https://cdn.simpleicons.org/arm/81c8be" title="arm" alt="arm">
+  <img height="50" src="https://cdn.simpleicons.org/stmicroelectronics/81c8be" title="stmicroelectronics" alt="stmicroelectronics">
+  <img height="50" src="https://cdn.simpleicons.org/raspberrypi/81c8be" title="raspberrypi" alt="raspberrypi">
+  <img height="50" src="https://cdn.simpleicons.org/cmake/81c8be" title="cmake" alt="cmake">
+  <img height="50" src="https://cdn.simpleicons.org/gnubash/81c8be" title="gnubash" alt="gnubash">
 </p>
 
 <p align="right">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/discordjs/discordjs-original.svg" title="discordjs" alt="discordjs">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" alt="bootstrap">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/electron/electron-original.svg" title="electron" alt="electron">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/php/php-plain.svg" title="php" alt="php">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-plain.svg" title="docker" alt="docker"> 
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" title="git" alt="git">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/dot-net/dot-net-original.svg" title="dot-net" alt="dot-net">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins">
+  
+  <img height="30" src="https://cdn.simpleicons.org/nodedotjs/283044" title="nodedotjs" alt="nodedotjs">
+  <img height="30" src="https://cdn.simpleicons.org/vuedotjs/283044" title="vuedotjs" alt="vuedotjs">
+  <img height="30" src="https://cdn.simpleicons.org/javascript/283044" title="javascript" alt="javascript">
+  <img height="30" src="https://cdn.simpleicons.org/bootstrap/283044" title="bootstrap" alt="bootstrap">
+  <img height="30" src="https://cdn.simpleicons.org/electron/283044" title="electron" alt="electron">
+  <img height="30" src="https://cdn.simpleicons.org/php/283044" title="php" alt="php">
+  <img height="30" src="https://cdn.simpleicons.org/mysql/283044" title="mysql" alt="mysql">
+  <img height="30" src="https://cdn.simpleicons.org/docker/283044" title="docker" alt="docker">
+  <img height="30" src="https://cdn.simpleicons.org/git/283044" title="git" alt="git">
+  <img height="30" src="https://cdn.simpleicons.org/csharp/283044" title="csharp" alt="csharp">
+  <img height="30" src="https://cdn.simpleicons.org/dotnet/283044" title="dotnet" alt="dotnet">
+  <img height="30" src="https://cdn.simpleicons.org/jenkins/283044" title="jenkins" alt="jenkins">
+  <img height="30" src="https://cdn.simpleicons.org/googleanalytics/283044" title="googleanalytics" alt="googleanalytics">
+  <img height="30" src="https://cdn.simpleicons.org/apache/283044" title="apache" alt="apache">
   ...
 </p>
 
