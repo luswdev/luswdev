@@ -15,7 +15,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="cmake" alt="cmake">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
 </p>
-<p align="left">
+<p align="right">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/discordjs/discordjs-original.svg" title="discordjs" alt="discordjs">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs">
