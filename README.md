@@ -6,7 +6,32 @@
 </div>
 -->
 
-<p align="center">
+## 🛠️ Main Skills
+<p align="left">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-plain.svg" title="clang" alt="clang">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/embeddedc/embeddedc-original.svg" title="embedded-c" alt="embedded-c">  
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" alt="bash">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="cmake" alt="cmake">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
+</p>
+<p align="left">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/discordjs/discordjs-original.svg" title="discordjs" alt="discordjs">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/electron/electron-original.svg" title="electron" alt="electron">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/php/php-plain.svg" title="php" alt="php">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-plain.svg" title="docker" alt="docker"> 
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" title="git" alt="git">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/dot-net/dot-net-original.svg" title="dot-net" alt="dot-net">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jenkins/jenkins-original.svg" title="jenkins" alt="jenkins">
+  ...
+</p>
+
+## Social
+<p align="left">
   <a style="text-decoration:none" href="mailto:info@lusw.dev">
     <img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -19,16 +44,6 @@
   <a style="text-decoration:none" href="https://blog.lusw.dev">
     <img src="https://img.shields.io/badge/-Blog-0085A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" />
   </a>
-</p>
-
-<p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-plain.svg" title="clang" alt="clang">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/embeddedc/embeddedc-original.svg" title="embedded-c" alt="embedded-c">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="cmake" alt="cmake">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
-  <br>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs">
 </p>
 
 </p>
