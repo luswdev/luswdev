@@ -7,12 +7,11 @@
 </div>
 
 <p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-plain.svg" title="clang" alt="clang">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/embeddedc/embeddedc-original.svg" title="embedded-c" alt="embedded-c">  
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" alt="bash">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="cmake" alt="cmake">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
+  <img height="50" src="https://cdn.simpleicons.org/c/283044" title="clang" alt="clang">
+  <img height="50" src="https://cdn.simpleicons.org/c++/283044" title="cpp" alt="cpp">
+  <img height="50" src="https://cdn.simpleicons.org/raspberrypi/283044" title="raspberrypi" alt="raspberrypi">
+  <img height="50" src="https://cdn.simpleicons.org/cmake/283044" title="cmake" alt="cmake">
+  <img height="50" src="https://cdn.simpleicons.org/gnubash/283044" title="gnubash" alt="gnubash">
 </p>
 
 <p align="right">
