@@ -2,7 +2,7 @@
 <div align="center">
 <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luswdev&show_icons=true&bg_color=30,606c88,3f4c6b&title_color=fff&text_color=fff&icon_color=fff&ring_color=81c8be&hide_border=true)](https://github.com/luswdev)-->
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luswdev&background=30,606c88,3f4c6b&ring=81c8be&fire=81c8be&currStreakLabel=81c8be&currStreakNum=fff&sideNums=fff&sideLabels=fff&dates=ccc&hide_border=true)](https://github.com/luswdev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luswdev&background=283044&ring=81c8be&fire=81c8be&currStreakLabel=81c8be&currStreakNum=fff&sideNums=fff&sideLabels=fff&dates=ccc&hide_border=true)](https://github.com/luswdev)
 
 </div>
 
@@ -31,20 +31,20 @@
   ...
 </p>
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luswdev&hide_border=true&bg_color=transparent&hide_title=true&line=81c8be&color=transparent&point=6E8D88)](https://github.com/luswdev)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luswdev&hide_border=true&bg_color=transparent&hide_title=true&line=283044&color=transparent&point=6E8D88)](https://github.com/luswdev)
 
 <p align="center">
   <a style="text-decoration:none" href="mailto:info@lusw.dev">
-    <img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white&color=283044" alt="Gmail" />
   </a>
   <a style="text-decoration:none" href="https://github.com/luswdev">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=283044" alt="GitHub" />
   </a>
   <a style="text-decoration:none" href="https://twitter.com/luswdev">
-    <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&color=283044" alt="Twitter" />
   </a>  
   <a style="text-decoration:none" href="https://blog.lusw.dev">
-    <img src="https://img.shields.io/badge/-Blog-0085A1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/-Blog-0085A1?style=for-the-badge&logo=googlechrome&logoColor=white&color=283044" alt="Blog" />
   </a>
 </p>
 
