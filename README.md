@@ -51,7 +51,9 @@
   </a>
 </p>
 
-<p align="right">
-  <img src="https://profile-counter.glitch.me/{luswdev}/count.svg?color=283044" />
-</p>
+<div align="right">
+  
+[![](https://komarev.com/ghpvc/?username=luswdev&color=283044&style=for-the-badge&label=visiters)](https://github.com/luswdev)
+  
+</div>
 
