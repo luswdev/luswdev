@@ -32,7 +32,6 @@
   <img height="30" src="https://cdn.simpleicons.org/jenkins/283044" title="jenkins" alt="jenkins">
   <img height="30" src="https://cdn.simpleicons.org/googleanalytics/283044" title="googleanalytics" alt="googleanalytics">
   <img height="30" src="https://cdn.simpleicons.org/apache/283044" title="apache" alt="apache">
-  ...
 </p>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luswdev&hide_border=true&bg_color=transparent&hide_title=true&line=283044&color=transparent&point=6E8D88)](https://github.com/luswdev)
