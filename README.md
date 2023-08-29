@@ -6,8 +6,8 @@
 
 </div>
 
-## 🛠️ Main Skills
-<p align="left">
+<h2 align="center">🛠️ Main Skills</h2>
+<p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-plain.svg" title="clang" alt="clang">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/embeddedc/embeddedc-original.svg" title="embedded-c" alt="embedded-c">  
@@ -31,8 +31,9 @@
   ...
 </p>
 
-### Social
-<p align="left">
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luswdev&hide_border=true&bg_color=transparent&hide_title=true&line=81c8be&color=transparent&point=6E8D88)](https://github.com/luswdev)
+
+<p align="center">
   <a style="text-decoration:none" href="mailto:info@lusw.dev">
     <img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -47,9 +48,9 @@
   </a>
 </p>
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luswdev&hide_border=true&bg_color=transparent&hide_title=true&line=81c8be&color=transparent&point=6E8D88)](https://github.com/luswdev)
 
-</p>
+
 <p align="right">
-<img src="https://profile-counter.glitch.me/{luswdev}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{luswdev}/count.svg" />
 </p>
+
