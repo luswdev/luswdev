@@ -46,6 +46,8 @@
   </a>
 </p>
 
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luswdev&hide_border=true&bg_color=transparent&hide_title=true&line=81c8be&color=transparent&point=6E8D88)](https://github.com/luswdev)
+
 </p>
 <p align="right">
 <img src="https://profile-counter.glitch.me/{luswdev}/count.svg" />
