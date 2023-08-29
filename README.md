@@ -6,7 +6,6 @@
 
 </div>
 
-<h2 align="center">🛠️ Main Skills</h2>
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/c/c-plain.svg" title="clang" alt="clang">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus">
@@ -15,6 +14,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" title="cmake" alt="cmake">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/raspberrypi/raspberrypi-original.svg" title="raspberry-pi" alt="raspberry-pi">
 </p>
+
 <p align="right">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/discordjs/discordjs-original.svg" title="discordjs" alt="discordjs">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs">
@@ -48,9 +48,7 @@
   </a>
 </p>
 
-
-
 <p align="right">
-  <img src="https://profile-counter.glitch.me/{luswdev}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{luswdev}/count.svg?color=283044" />
 </p>
 
