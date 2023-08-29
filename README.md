@@ -1,7 +1,9 @@
 
 <div align="center">
 <!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luswdev&show_icons=true&bg_color=30,606c88,3f4c6b&title_color=fff&text_color=fff&icon_color=fff&ring_color=81c8be&hide_border=true)](https://github.com/luswdev)-->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luswdev&background=30,606c88,3f4c6b&ring=81c8be&fire=81c8be&currStreakLabel=81c8be&currStreakNum=fff&sideNums=fff&sideLabels=fff&dates=ccc&hide_border=true)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luswdev&background=30,606c88,3f4c6b&ring=81c8be&fire=81c8be&currStreakLabel=81c8be&currStreakNum=fff&sideNums=fff&sideLabels=fff&dates=ccc&hide_border=true)](https://github.com/luswdev)
+
 </div>
 
 ## 🛠️ Main Skills
