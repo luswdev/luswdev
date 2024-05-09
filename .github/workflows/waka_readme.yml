@@ -26,3 +26,5 @@ jobs:
           SHOW_LANGUAGE: True
           SHOW_OS: True
           SYMBOL_VERSION: 3
+          SHOW_LOC_CHART: False
+          COMMIT_MESSAGE: '[M] update from waka-readme-stats workflow'
