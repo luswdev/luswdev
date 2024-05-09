@@ -28,10 +28,6 @@ Go                       1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/luswdev/luswdev/master/assets/bar_graph.png)
-
-
- Last Updated on 09/05/2024 10:02:05 UTC
+ Last Updated on 09/05/2024 10:03:09 UTC
 <!--END_SECTION:waka-->
