@@ -11,9 +11,7 @@
 -->
 
 <!--START_SECTION:wakatime_gen-->
-### :hammer: Language Leaderboard
-<br>
-
+## :hammer: Language Leaderboard
 ```
 C++              12 hrs 59 mins   [=====...........................]    21.79%
 HTML              10 hrs 9 mins   [====............................]    17.03%
@@ -21,9 +19,7 @@ sh                9 hrs 10 mins   [===.............................]    15.39%
 C                 7 hrs 42 mins   [===.............................]    12.92%
 JavaScript        6 hrs 55 mins   [==..............................]    11.60%
 ```
-### :floppy_disk: Editor Leaderboard
-<br>
-
+## :floppy_disk: Editor Leaderboard
 ```
 VS Code                  38 hrs   [===============.................]    63.73%
 Zsh               9 hrs 10 mins   [===.............................]    15.39%
@@ -31,9 +27,7 @@ Xcode             6 hrs 59 mins   [==..............................]    11.74%
 Visual Studio     5 hrs 16 mins   [==..............................]     8.84%
 Vim                      8 mins   [................................]     0.24%
 ```
-### :computer: Operating System Leaderboard
-<br>
-
+## :computer: Operating System Leaderboard
 ```
 Linux             47 hrs 4 mins   [===================.............]    78.95%
 Mac               7 hrs 14 mins   [===.............................]    12.15%
