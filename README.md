@@ -11,7 +11,8 @@
 -->
 
 <!--START_SECTION:wakatime_gen-->
-<div align="center"><h3 style="text-align: center;">:hammer: Languages</h3><div>
+<div align="center">
+	<h3 style="text-align: center;">:hammer: Languages</h3>
 
 ```
 C++              12 hrs 59 mins   [=====...........................]    21.79%
@@ -20,7 +21,11 @@ sh                9 hrs 10 mins   [===.............................]    15.39%
 C                 7 hrs 42 mins   [===.............................]    12.92%
 JavaScript        6 hrs 55 mins   [==..............................]    11.60%
 ```
-<div align="center"><h3 style="text-align: center;">:floppy_disk: Editors</h3><div>
+
+</div>
+
+<div align="center">
+	<h3 style="text-align: center;">:floppy_disk: Editors</h3>
 
 ```
 VS Code                  38 hrs   [===============.................]    63.73%
@@ -29,13 +34,20 @@ Xcode             6 hrs 59 mins   [==..............................]    11.74%
 Visual Studio     5 hrs 16 mins   [==..............................]     8.84%
 Vim                      8 mins   [................................]     0.24%
 ```
-<div align="center"><h3 style="text-align: center;">:computer: Operating Systems</h3><div>
+
+</div>
+
+<div align="center">
+	<h3 style="text-align: center;">:computer: Operating Systems</h3>
 
 ```
 Linux             47 hrs 4 mins   [===================.............]    78.95%
 Mac               7 hrs 14 mins   [===.............................]    12.15%
 Windows           5 hrs 18 mins   [==..............................]     8.90%
 ```
+
+</div>
+
 
 <!--END_SECTION:wakatime_gen-->
 
