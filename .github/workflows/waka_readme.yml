@@ -20,6 +20,8 @@ jobs:
 
       - name: commit readme
         run: |
+          git config --global user.name 'LuSkywalker'
+          git config --global user.email 'callumlu@gmail.com'
           git add README.md
           git commit -m '[M] update wakatime stats to readme from workflow'
           git push origin master
