@@ -18,7 +18,7 @@ jobs:
           comment-summary-in-pr: true
 
       - name: generate readme
-        with:
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           python3 .github/workflows/wakatime/main.py
