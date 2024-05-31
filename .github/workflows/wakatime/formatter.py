@@ -10,7 +10,7 @@ class formatter:
         return prog
 
     def format_array(self, elems, title = ''):
-        fmt_arr = f'<div align="center"><h3 style="text-align: center;">{title}</h3><div>\n\n'
+        fmt_arr = f'<div align="center">\n\t<h3 style="text-align: center;">{title}</h3>\n\n'
 
         fmt_arr += '```\n'
         cnt = 0
@@ -29,7 +29,7 @@ class formatter:
             if cnt >= 5:
                 break
 
-        fmt_arr+= '```\n'
+        fmt_arr+= '```\n\n</div>\n\n'
 
         return fmt_arr
 
