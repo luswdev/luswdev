@@ -23,7 +23,7 @@ class formatter:
             if name == 'Other':
                 continue
 
-            fmt_arr += f'{name.ljust(15)} {time.rjust(15)} {bar} {percent}%\n'
+            fmt_arr += f'{name.ljust(15)} {time.rjust(15)}   {bar} {percent}%\n'
             cnt += 1
 
             if cnt >= 5:
