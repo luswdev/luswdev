@@ -12,7 +12,7 @@ class formatter:
     def format_array(self, elems, title = ''):
         fmt_arr = f'<div align="center">\n\n### {title}\n\n'
 
-        fmt_arr += '```\n'
+        fmt_arr += '```sh\n'
         cnt = 0
         for elem in elems:
             name = elem['name']
