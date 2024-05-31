@@ -10,7 +10,7 @@ class formatter:
         return prog
 
     def format_array(self, elems, title = ''):
-        fmt_arr = f'<h3 style="text-align: center;">{title}</h3>\n\n'
+        fmt_arr = f'<div align="center"><h3 style="text-align: center;">{title}</h3><div>\n\n'
 
         fmt_arr += '```\n'
         cnt = 0
