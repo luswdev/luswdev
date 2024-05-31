@@ -14,13 +14,15 @@ jobs:
         with:
           comment-summary-in-pr: true
 
-      - uses: actions/checkout@v3
       - name: generate readme
+        uses: actions/checkout@v3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           python3 .github/workflows/wakatime/main.py
+
       - name: commit readme
+        uses: actions/checkout@v3
         run: |
           git add README.md
           git commit -m '[M] update wakatime stats to readme from workflow'
