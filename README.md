@@ -1,3 +1,13 @@
+<p align="center">
+  <img height="50" src="https://cdn.simpleicons.org/c/81c8be" title="clang" alt="clang">
+  <img height="50" src="https://cdn.simpleicons.org/c++/81c8be" title="cpp" alt="cpp">
+  <img height="50" src="https://cdn.simpleicons.org/arm/81c8be" title="arm" alt="arm">
+  <img height="50" src="https://cdn.simpleicons.org/stmicroelectronics/81c8be" title="stmicroelectronics" alt="stmicroelectronics">
+  <img height="50" src="https://cdn.simpleicons.org/raspberrypi/81c8be" title="raspberrypi" alt="raspberrypi">
+  <img height="50" src="https://cdn.simpleicons.org/cmake/81c8be" title="cmake" alt="cmake">
+  <img height="50" src="https://cdn.simpleicons.org/gnubash/81c8be" title="gnubash" alt="gnubash">
+</p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2023%20mins-blue)
 
@@ -38,3 +48,9 @@ Go                       1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 <!--END_SECTION:waka-->
+
+<div align="right">
+
+[![](https://komarev.com/ghpvc/?username=luswdev&color=283044&style=for-the-badge&label=visiters)](https://github.com/luswdev)
+
+</div>
