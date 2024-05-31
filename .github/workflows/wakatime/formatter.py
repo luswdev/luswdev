@@ -1,7 +1,7 @@
 
 class formatter:
     def format_progress_bar(self, percent):
-        BAR_LEN = 25
+        BAR_LEN = 32
         act = int(percent / (100/25))
         prog = '['
         prog += '=' * act
@@ -23,7 +23,7 @@ class formatter:
             if name == 'Other':
                 continue
 
-            fmt_arr += f'{name.ljust(15)} {time.ljust(15)} {bar} {percent}%\n'
+            fmt_arr += f'{name.ljust(15)} {time.rjust(15)} {bar} {percent}%\n'
             cnt += 1
 
             if cnt >= 5:
