@@ -13,7 +13,7 @@ class github:
         self.README_REGEX = f"{self.START_SECTION}[\\s\\S]+{self.END_SECTION}"
 
     def insert_stats(self, fmt_stats):
-        README_PATH = '../../../README.md'
+        README_PATH = 'README.md'
 
         with open(README_PATH, 'r') as readme_file:
             readme_contents = readme_file.read()
