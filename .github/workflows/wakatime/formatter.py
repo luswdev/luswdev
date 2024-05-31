@@ -17,7 +17,7 @@ class formatter:
         for elem in elems:
             name = elem['name']
             time = elem['digital']
-            percent = '%5.2f' % elem['percent']
+            percent = '%10.2f' % elem['percent']
             bar = self.format_progress_bar(elem['percent'])
 
             if name == 'Other':

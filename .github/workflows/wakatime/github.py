@@ -1,4 +1,4 @@
-from re import subo
+from re import sub
 import requests
 
 from formatter import formatter
@@ -24,9 +24,9 @@ class github:
             readme_file.write(new_readme)
 
     def update_readme(self, stats):
-        languages = self.formatter.format_array(stats['languages'], 'Language Leaderboard')
-        editors = self.formatter.format_array(stats['editors'], 'Editors Leaderboard')
-        oss = self.formatter.format_array(stats['operating_systems'], 'Operating System Leaderboard')
+        languages = self.formatter.format_array(stats['languages'], ':hammer: Language Leaderboard')
+        editors = self.formatter.format_array(stats['editors'], ':floppy_disk: Editor Leaderboard')
+        oss = self.formatter.format_array(stats['operating_systems'], ':computer: Operating System Leaderboard')
         fmt_stats = languages + editors + oss
         self.insert_stats(fmt_stats)
 
