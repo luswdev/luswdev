@@ -24,9 +24,9 @@ class github:
             readme_file.write(new_readme)
 
     def update_readme(self, stats):
-        languages = self.formatter.format_array(stats['languages'], ':hammer: Language Leaderboard')
-        editors = self.formatter.format_array(stats['editors'], ':floppy_disk: Editor Leaderboard')
-        oss = self.formatter.format_array(stats['operating_systems'], ':computer: Operating System Leaderboard')
+        languages = self.formatter.format_array(stats['languages'], ':hammer: Languages')
+        editors = self.formatter.format_array(stats['editors'], ':floppy_disk: Editors')
+        oss = self.formatter.format_array(stats['operating_systems'], ':computer: Operating Systems')
         fmt_stats = languages + editors + oss
         self.insert_stats(fmt_stats)
 
