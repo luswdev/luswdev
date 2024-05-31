@@ -4,7 +4,7 @@ import base64
 
 class wakatime:
     def __init__(self):
-        self.WAKATIME_API_KEY = environ['INPUT_WAKATIME_API_KEY']
+        self.WAKATIME_API_KEY = environ['WAKATIME_API_KEY']
         self.BASE_URL = 'https://wakatime.com/api/v1/'
 
     def make_requests(self, method, api):
