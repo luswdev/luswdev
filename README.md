@@ -12,7 +12,8 @@
 
 <!--START_SECTION:wakatime_gen-->
 <div align="center">
-	<h3 style="text-align: center;">:hammer: Languages</h3>
+
+### :hammer: Languages
 
 ```
 C++              12 hrs 59 mins   [=====...........................]    21.79%
@@ -25,7 +26,8 @@ JavaScript        6 hrs 55 mins   [==..............................]    11.60%
 </div>
 
 <div align="center">
-	<h3 style="text-align: center;">:floppy_disk: Editors</h3>
+
+### :floppy_disk: Editors
 
 ```
 VS Code                  38 hrs   [===============.................]    63.73%
@@ -38,7 +40,8 @@ Vim                      8 mins   [................................]     0.24%
 </div>
 
 <div align="center">
-	<h3 style="text-align: center;">:computer: Operating Systems</h3>
+
+### :computer: Operating Systems
 
 ```
 Linux             47 hrs 4 mins   [===================.............]    78.95%
