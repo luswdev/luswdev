@@ -10,7 +10,7 @@ class formatter:
         return prog
 
     def format_array(self, elems, title = ''):
-        fmt_arr = f'### {title}\n<br/>\n'
+        fmt_arr = f'### {title}\n<br>\n\n'
 
         fmt_arr += '```\n'
         cnt = 0
