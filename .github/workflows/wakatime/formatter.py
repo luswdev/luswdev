@@ -16,14 +16,14 @@ class formatter:
         cnt = 0
         for elem in elems:
             name = elem['name']
-            time = elem['digital']
-            percent = '%10.2f' % elem['percent']
+            time = elem['text']
+            percent = '%8.2f' % elem['percent']
             bar = self.format_progress_bar(elem['percent'])
 
             if name == 'Other':
                 continue
 
-            fmt_arr += f'{name.ljust(15)} {time.ljust(5)} {percent}% {bar}\n'
+            fmt_arr += f'{name.ljust(15)} {time.ljust(15)} {bar} {percent}%\n'
             cnt += 1
 
             if cnt >= 5:

@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <img height="50" src="https://cdn.simpleicons.org/c/81c8be" title="clang" alt="clang">
   <img height="50" src="https://cdn.simpleicons.org/c++/81c8be" title="cpp" alt="cpp">
@@ -7,6 +8,7 @@
   <img height="50" src="https://cdn.simpleicons.org/cmake/81c8be" title="cmake" alt="cmake">
   <img height="50" src="https://cdn.simpleicons.org/gnubash/81c8be" title="gnubash" alt="gnubash">
 </p>
+-->
 
 <!--START_SECTION:wakatime_gen-->
 ### :hammer: Language Leaderboard
